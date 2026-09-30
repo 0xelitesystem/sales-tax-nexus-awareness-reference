@@ -2,6 +2,8 @@
 
 A plain-language reference for solo operators and small sellers on sales tax nexus: what it is, how economic nexus changed the rules, why selling into a state can create a tax obligation there, and what questions to ask. Awareness, not a compliance plan.
 
+For general information only. This is not legal or tax advice. Check anything that affects you with a qualified professional.
+
 **Not legal or tax advice.** Sales tax rules vary by state and change often. This explains the concepts so you know what to watch for and when to get help. It does not tell you whether you owe tax anywhere or how to file. Confirm your situation with a qualified tax professional.
 
 ## The core idea
